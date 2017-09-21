@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ImageIdentification"
+  id="myeclipse.1497011738462"
+  context-root="/ImageIdentification"
+  j2ee-spec="6.0"
+  archive="ImageIdentification.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
